@@ -1,3 +1,3 @@
 FROM alpine
 
-VOLUME /Pentest
+VOLUME /Hostroot
