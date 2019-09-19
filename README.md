@@ -1,4 +1,4 @@
-# Docker Privesc
+# Docker Privilege Escalation
 This project helps to evaluate how docker group access should be appropriately mainted to prevent privilege escalation.
 
 As per Docker, to use docker command either a user needs to be a sudo group member or should have access to docker group.
