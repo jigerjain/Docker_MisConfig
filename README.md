@@ -13,9 +13,11 @@ docker build -t application .
 ./exploit.sh
 
 Running docker
-You could access the root folder of the system machine under /Pentest folder
+You could access the root folder of the system machine under /Hostroot folder
 
 ```
+
+
 
 
 
