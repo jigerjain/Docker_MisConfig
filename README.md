@@ -24,7 +24,7 @@ exploit.sh file contains a docker command which would mount the path "/" to the 
 docker run -v /:/Hostroot -it application
 ```
 
-
+![Root_folder_access](https://user-images.githubusercontent.com/38969890/65789819-2d84cf80-e12c-11e9-9136-ff3d4873874e.png)
 
 
 
