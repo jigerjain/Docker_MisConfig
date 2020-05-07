@@ -1,4 +1,4 @@
-# Docker Privilege Escalation
+# Docker Misconfiguration
 This project helps to evaluate how docker group access could be exploited to gain unrestricted file access to the host machine.
 
 As per Docker, to use docker command either a user needs to be a sudo group member or should have access to docker group.
